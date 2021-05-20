@@ -1,0 +1,22 @@
+#title{
+    text-align: center;
+    font-size: xx-large;
+}
+#img-div{
+    background-color: lightslategray;
+    padding: 10px;
+    border-radius: 10px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+
+}
+
+#image{
+    display: block;
+    max-width: 210px;
+    max-height: calc(2400px / 2);
+    height: auto;
+    width: 80%;
+}
